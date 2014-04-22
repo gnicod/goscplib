@@ -1,7 +1,8 @@
 package goscplib
 
 import(
-	"code.google.com/p/go.crypto/ssh"
+	//"code.google.com/p/go.crypto/ssh" temp hack
+    "code.google.com/p/gosshold/ssh"
 	"fmt"
 	"log"
 	"os"
